@@ -10,56 +10,37 @@
             "id": "banner", 
             "link": "no", 
             "type": "banner", 
-            "title": "Report Writing Training Courses Ireland", 
-            "subtitle": "Contact us for all your Report Writing training requirements", 
+            "title": "Customer Service Training Courses Ireland", 
+            "subtitle": "Contact us for all your Customer Service training requirements", 
             "background": "img/ground@-min.png",
             "image": "svg/onlineclass.svg"
         },
         {
             "id": "keywordtext",
             "link": "/#keywordtext", 
-            "text": "Info", 
-            "title": "Info", 
+            "text": "About", 
+            "title": "About", 
             "type": "keywordtext",
             "image": "/svg/Code Version Control.svg", 
             "imagePosition": "right",
             "content":{
-                "title": "Writing concisely and clearly takes time...",
-                "text1": "Writing concisely and clearly takes time. You have to work out exactly what your audience wants to know in order to make sure you are writing relevant information.  There is no set formula for writing a report – every report is different. Each one depends on what the purpose is, who you are writing for and the kind of information that you are reporting.",
-                "text2": "The keys to writing good reports are:",
-                "list":[
-                    "Understanding the types of writing a report involves.", 
-                    "Being able to identify the audience and purpose of your report.", 
-                    "Knowing how reports are read by your audience.", 
-                    "Knowing the purpose of each section in a report (not just where the information goes).", 
-                    "Understanding how good organisation of your report helps the reader find the information they want.", 
-                    "Being able to communicate well both in writing  and using graphical data."
-                ]
-
+                "title": "The battleground for competitive advantage...",
+                "text": "For many organisations the traditional service performance levels are not sufficient to ensure customer loyalty. The customer experience has become the battle ground for competitive advantage. While many managers focus on internal metrics the customer’s perspective may be neglected.  Effective customer service ensures a link between the organisational strategy and the operational reality experienced by the customer. Successful enterprises identify and mitigate the root causes of gaps in customer service delivery and understand which areas can be improved by individuals, which by the organisation and which require further consideration outside a training programme."
             }
         },
         {
             "id": "summary",
             "link": "/#summary", 
-            "text": "What to Expect", 
-            "title": "What to Expect", 
+            "text": "Why Attend?", 
+            "title": "Why Attend?", 
             "type": "summary",
             "image": "", 
             "imagePosition": "right",
             "content":{
-                "title": "What to expect from one of our Facilitation Skills courses?",
-                "text1": "<a href=/courses>Our programmes</a> are designed for people who regularly write reports as part of their job. It will help to refresh their existing skills and introduce some new techniques and concepts. The value of the session is enhanced if the participants bring some sample documents.  Participants should be familiar with the basics of report writing and have created a number of reports.  Our courses are also suitable for more experienced report writers who may be self-taught, never having received any formal training.",
-
-                "text2": "Having completed our training the participants will:",
-                "list":[
-                    "Understand that professional writing is a career skill.", 
-                    "Understand the importance of knowing their audience.", 
-                    "Write in a context where the report may be read by an outside third party.", 
-                    "Write clear and concise sentences.", 
-                    "Have a clear understanding of the features of an effective report.", 
-                    "Know how to use tables, charts and diagrams to illustrate key points.",
-                    "Have practiced the techniques and created an action plan to apply them."
-                ]
+                "title": "Why attend our Customer Service training courses?",
+                "text1": "For client-facing roles, our Customer Service training is designed to provide participants with the competencies required to become an effective representative of the enterprise.",
+                "text2": "Our programmes emphasise and hone the ability to communicate effectively and manage customer expectations as a crucial part of the participant’s role as the contact point for their organisation. Our workshops cover the main ways that customers interact with customer service representatives, including face to face, email and telephone communication but also encourage the participants to think creatively about how to improve the customer experience and how their experience and ideas may be incorporated into continuous improvement programme.",
+                "text3": "We have extensive experience in workshops designed specifically for technical support staff. These combine the key elements of customer service training with the skills required to present technical information to both technical and non-technical customers. Our content recognises the technical nature of the service provided and the importance of the customer service staff`s role as translators and problem solvers when speaking with customers. We emphasise how communicating, managing expectations and empathizing are increasingly important for IT roles which are business facing.  Our goal is to enable technical experts to gain the core customer service skills that are essential to achieve hard results and deliver responsive technical support."
             }
         } 
     ] 

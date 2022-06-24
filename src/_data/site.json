@@ -1,11 +1,11 @@
 {
-    "searchKeywords": ["JavaScript"],
+    "searchKeywords": ["Customer Service"],
     "searchLocations": ["Dublin", "Cork", "Limerick", "Ireland"],
     "homepageTitle": "Training Courses - Dublin Cork Limerick Ireland", 
     "organisation": {
-        "name": "AngularTraining.ie" 
+        "name": "CustomerServiceTraining.ie" 
     },
-    "url": "angulartraining.ie",
+    "url": "customerservicetraining.ie",
     "logo": "",
     "address": {
         "line1": "Building 6500E", 
@@ -42,8 +42,8 @@
         "google": "https://www.google.com/maps/place/Professional+Training+Solutions+Ltd/@51.852587,-8.484224,10z/data=!4m5!3m4!1s0x0:0x3c971fc02b3a40f3!8m2!3d51.852587!4d-8.484224?hl=en"
     }, 
     "footertext":[
-        "We do javascript training and are very good at it", 
-        "Full range of javascript courses available"
+        "We do Customer Service training and are very good at it", 
+        "Full range of Customer Service courses available"
     ], 
     "designer": {
         "name": "professional.ie",
