@@ -3,7 +3,8 @@
     "searchLocations": ["Dublin", "Cork", "Limerick", "Ireland"],
     "homepageTitle": "Training Courses - Dublin Cork Limerick Ireland", 
     "organisation": {
-        "name": "CustomerServiceTraining.ie" 
+        "name": "Professional Training Solutions Ltd" ,
+        "department": "CustomerServiceTraining.ie" 
     },
     "url": "customerservicetraining.ie",
     "logo": "",

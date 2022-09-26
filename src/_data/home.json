@@ -38,6 +38,7 @@
             "type": "keywordtext",
             "image": "", 
             "imagePosition": "right",
+            "imageWidth": 300, 
             "content":{
                 "title": "Why attend our Customer Service training courses?",
                 "text":[
