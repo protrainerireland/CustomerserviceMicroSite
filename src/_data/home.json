@@ -1,52 +1,60 @@
 {
-    "sections":[
+    "sections": [
         {
             "id": "top",
-            "link": "/#top", 
-            "text": "Home",  
+            "link": "/",
+            "text": "Home",
             "type": "placeholder"
-        }, 
-        {
-            "id": "banner", 
-            "link": "no", 
-            "type": "banner", 
-            "title": "Customer Service Training Courses Ireland", 
-            "subtitle": "Contact us for all your Customer Service training requirements", 
-            "background": "img/ground@-min.png",
-            "image": "svg/undraw_social_friends_re_7uaa.svg"
         },
         {
-            "id": "keywordtext",
-            "link": "/#keywordtext", 
-            "text": "About", 
-            "title": "About", 
-            "type": "keywordtext",
-            "image": "/svg/Code Version Control.svg", 
-            "imagePosition": "right",
-            "content":{
-                "title": "The battleground for competitive advantage...",
-                "text":[
-                    "For many organisations the traditional service performance levels are not sufficient to ensure customer loyalty. The customer experience has become the battle ground for competitive advantage. While many managers focus on internal metrics the customer’s perspective may be neglected.  Effective customer service ensures a link between the organisational strategy and the operational reality experienced by the customer. Successful enterprises identify and mitigate the root causes of gaps in customer service delivery and understand which areas can be improved by individuals, which by the organisation and which require further consideration outside a training programme."
-                ]
+            "id": "banner",
+            "link": "no",
+            "type": "banner",
+            "title": "Customer Service Training Courses Ireland",
+            "subtitle": "Practical, instructor-led training in-person at our Dublin, Cork and Limerick offices, at your premises nationwide or live online. Learn to handle calls, emails and face-to-face conversations with confidence, from everyday customer care through to difficult situations and technical support.",
+            "illustration": {
+                "src": "/img/undraw-live-support.svg?v=1",
+                "width": 803,
+                "height": 800
             }
         },
         {
-            "id": "summary",
-            "link": "/#summary", 
-            "text": "Why Attend?", 
-            "title": "Why Attend?", 
-            "type": "keywordtext",
-            "image": "", 
-            "imagePosition": "right",
-            "imageWidth": 300, 
-            "content":{
-                "title": "Why attend our Customer Service training courses?",
-                "text":[
-                    "For client-facing roles, our Customer Service training is designed to provide participants with the competencies required to become an effective representative of the enterprise.",
-                    "Our programmes emphasise and hone the ability to communicate effectively and manage customer expectations as a crucial part of the participant’s role as the contact point for their organisation. Our workshops cover the main ways that customers interact with customer service representatives, including face to face, email and telephone communication but also encourage the participants to think creatively about how to improve the customer experience and how their experience and ideas may be incorporated into continuous improvement programme.",
-                    "We have extensive experience in workshops designed specifically for technical support staff. These combine the key elements of customer service training with the skills required to present technical information to both technical and non-technical customers. Our content recognises the technical nature of the service provided and the importance of the customer service staff`s role as translators and problem solvers when speaking with customers. We emphasise how communicating, managing expectations and empathizing are increasingly important for IT roles which are business facing.  Our goal is to enable technical experts to gain the core customer service skills that are essential to achieve hard results and deliver responsive technical support."
-                ]
+            "id": "about",
+            "link": "/#about",
+            "text": "About",
+            "title": "About our Customer Service courses",
+            "type": "text",
+            "content": [
+                "For many organisations, the customer experience is now what sets them apart from their competitors. Good customer service links the organisation's strategy to what customers actually experience, whether they get in touch face to face, by email or on the phone. Our courses give client-facing staff the skills to communicate clearly, manage expectations and turn a difficult conversation into a good outcome.",
+                "Our instructor-led <a href=/courses/>courses</a> run from one-day workshops on telephone techniques and managing difficult calls to two-day programmes for managers on the customer service experience and competitive advantage. We also run workshops designed for technical support staff, who need to explain technical problems clearly to technical and non-technical customers alike. Every course is practical and run in small groups, with plenty of time to practise."
+            ],
+            "illustration": {
+                "src": "/img/undraw-question-answered.svg?v=1",
+                "width": 960,
+                "height": 821
             }
-        } 
-    ] 
+        },
+        {
+            "id": "testimonials",
+            "link": "/#testimonials",
+            "text": "Testimonials",
+            "type": "quotes",
+            "title": "What our attendees say",
+            "content": {
+                "quotes": []
+            }
+        },
+        {
+            "id": "get-started",
+            "link": "no",
+            "type": "cta",
+            "title": "Find the right Customer Service course for you",
+            "content": "From a one-day course in professional telephone techniques to in-depth two-day programmes for managers and technical support teams. See what each course covers, then book a date in Dublin, Cork or live online.",
+            "actions": [
+                { "text": "Browse courses", "link": "/courses/" },
+                { "text": "See course dates", "link": "/schedule/" }
+            ],
+            "note": "Training a team? We can run any course at your premises or online, on dates that suit you. <a href=\"#contact\">Contact us</a>"
+        }
+    ]
 }
