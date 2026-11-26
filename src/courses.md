@@ -15,7 +15,8 @@ pageType: courses
 
 <div class="wrap page">
 <ul class="course-list">
-{% for course in coursesapifull.courses %}
+{% assign coursesUpcomingFirst = coursesapifull.courses | upcomingFirst %}
+{% for course in coursesUpcomingFirst %}
 <li>
 <h2><a href="/courses/{{ course.name | slug | removeInvalidChars }}/">{{ course.name }}</a></h2>
 <p>{{ course.descrip | shorten: 220 }}</p>

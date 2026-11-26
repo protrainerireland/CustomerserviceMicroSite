@@ -191,6 +191,17 @@ module.exports = function(config) {
     // first scheduled date that hasn't passed yet ("" if none), as of the build
     config.addFilter("nextDate", nextDate);
 
+    // courses with an upcoming date first, soonest first; the rest keep their API order
+    config.addFilter("upcomingFirst", function(courses) {
+        let list = (courses || []).map((course, index) => ({ course, index, next: nextDate(course.schedule) }));
+        list.sort((a, b) => {
+            if (a.next && b.next) return a.next.localeCompare(b.next) || a.index - b.index;
+            if (a.next || b.next) return a.next ? -1 : 1;
+            return a.index - b.index;
+        });
+        return list.map(item => item.course);
+    });
+
     config.addFilter("formatDuration", formatDuration);
 
     // the line under each course in course lists, e.g. "Half day, next date Fri 13 Nov 2026"
